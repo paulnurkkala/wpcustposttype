@@ -38,3 +38,5 @@ So, an option called "make_header_blue" with global options ID 23 would be:
 ```
 
 Once setup, this method is very fast and very powerful for fully customizing the global options of a wordpress site.
+
+Further inspection of the CustPostType class will reveal that there's a lot more power than is simply described above, but I will have to wait for a later date to be able to show all of what it can do. I spent about 4-5 months contiuning to add to this class to make it better and better.
